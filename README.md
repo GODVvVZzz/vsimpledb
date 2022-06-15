@@ -323,7 +323,7 @@
 
    * 转换结果：
 
-     <img src="./picture/image-20220525111300040.png" alt="image-20220525111300040" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525111300040.png" alt="image-20220525111300040" style="zoom:80%;" />
      
      
 
@@ -345,13 +345,13 @@
 
      * 非索引查找：
 
-       <img src="./picture/image-20220525113322899.png" alt="image-20220525113322899" style="zoom:80%;" align ="left"/>
+       <img src="./picture/image-20220525113322899.png" alt="image-20220525113322899" style="zoom:80%;"/>
 
-       <img src="./picture/image-20220525113413012.png" alt="image-20220525113413012" style="zoom:80%;" align ="left" />
+       <img src="./picture/image-20220525113413012.png" alt="image-20220525113413012" style="zoom:80%;"/>
 
-       <img src="./picture/image-20220525113453603.png" alt="image-20220525113453603" style="zoom:80%;" align ="left"/>
+       <img src="./picture/image-20220525113453603.png" alt="image-20220525113453603" style="zoom:80%;"/>
 
-       <img src="./picture/image-20220525113602027.png" alt="image-20220525113602027" style="zoom:80%;" align ="left"/>
+       <img src="./picture/image-20220525113602027.png" alt="image-20220525113602027" style="zoom:80%;"/>
        
        
 
@@ -359,17 +359,17 @@
 
    * 窗口查询
 
-     <img src="./picture/image-20220525152840374.png" alt="image-20220525152840374" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525152840374.png" alt="image-20220525152840374" style="zoom:80%;"/>
 
      
 
      
 
-     <img src="./picture/image-20220525154138524.png" alt="image-20220525154138524" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525154138524.png" alt="image-20220525154138524" style="zoom:80%;"/>
 
-     <img src="./picture/image-20220525154231933.png" alt="image-20220525154231933" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525154231933.png" alt="image-20220525154231933" style="zoom:80%;"/>
 
-     <img src="./picture/image-20220525154255399.png" alt="image-20220525154255399" style="zoom:80%;" align="left" />
+     <img src="./picture/image-20220525154255399.png" alt="image-20220525154255399" style="zoom:80%;"/>
      
      
      
@@ -379,31 +379,31 @@
 
    * 创建数据库
 
-     <img src="./picture/image-20220525110552563.png" alt="image-20220525110552563" style="zoom:80%;" align = "left"/>
+     <img src="./picture/image-20220525110552563.png" alt="image-20220525110552563" style="zoom:80%;" />
 
      
 
    * 显示数据库
 
-     <img src="./picture/image-20220525155959438.png" alt="image-20220525155959438" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525155959438.png" alt="image-20220525155959438" style="zoom:80%;" />
 
      
 
    * 选择数据库
 
-     <img src="./picture/image-20220525155326733.png" alt="image-20220525155326733" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525155326733.png" alt="image-20220525155326733" style="zoom:80%;" />
 
      
 
    * 创建表
 
-     <img src="./picture/image-20220525155422357.png" alt="image-20220525155422357" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525155422357.png" alt="image-20220525155422357" style="zoom:80%;"/>
 
      
 
    * 显示指定数据库中的表
 
-     <img src="./picture/image-20220525160610765.png" alt="image-20220525160610765" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525160610765.png" alt="image-20220525160610765" style="zoom:80%;"/>
 
      
 
@@ -421,13 +421,13 @@
    
    * 删除表
    
-     <img src="./picture/image-20220525161030146.png" alt="image-20220525161030146" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525161030146.png" alt="image-20220525161030146" style="zoom:80%;"/>
    
      
    
    * 删除数据库
    
-     <img src="./picture/image-20220525161144126.png" alt="image-20220525161144126" style="zoom:80%;" align="left"/>
+     <img src="./picture/image-20220525161144126.png" alt="image-20220525161144126" style="zoom:80%;"/>
      
      
    
