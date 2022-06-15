@@ -297,13 +297,13 @@
 
    * 运行simpleDb.java后，创建数据库NUAA。
 
-     <img src="./picture/image-20220525110552563.png" alt="image-20220525110552563" style="zoom:80%;" align = "left"/>
+     <img src="./picture/image-20220525110552563.png" alt="image-20220525110552563" style="zoom:80%;" />
 
      
 
    * 创建csv文件要转换到的表。
 
-     <img src="./picture/image-20220525110805984.png" alt="image-20220525110805984" style="zoom:80%;" align = "left" />
+     <img src="./picture/image-20220525110805984.png" alt="image-20220525110805984" style="zoom:80%;"  />
 
      
 
