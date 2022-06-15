@@ -299,9 +299,13 @@
 
      <img src="./picture/image-20220525110552563.png" alt="image-20220525110552563" style="zoom:80%;" align = "left"/>
 
+     
+
    * 创建csv文件要转换到的表。
 
      <img src="./picture/image-20220525110805984.png" alt="image-20220525110805984" style="zoom:80%;" align = "left" />
+
+     
 
    * 设置CsvToTable.java相应参数，运行开始转换。
 
@@ -320,6 +324,8 @@
    * 转换结果：
 
      <img src="./picture/image-20220525111300040.png" alt="image-20220525111300040" style="zoom:80%;" align="left"/>
+     
+     
 
 3. 查找
 
@@ -335,6 +341,8 @@
 
        <img src="./picture/image-20220525113050237.png" alt="image-20220525113050237" style="zoom:80%;" />
 
+       
+
      * 非索引查找：
 
        <img src="./picture/image-20220525113322899.png" alt="image-20220525113322899" style="zoom:80%;" align ="left"/>
@@ -344,6 +352,8 @@
        <img src="./picture/image-20220525113453603.png" alt="image-20220525113453603" style="zoom:80%;" align ="left"/>
 
        <img src="./picture/image-20220525113602027.png" alt="image-20220525113602027" style="zoom:80%;" align ="left"/>
+       
+       
 
      可以看到使用索引查找比非索引查找快了0.3s。
 
@@ -353,12 +363,16 @@
 
      
 
+     
+
      <img src="./picture/image-20220525154138524.png" alt="image-20220525154138524" style="zoom:80%;" align="left"/>
 
      <img src="./picture/image-20220525154231933.png" alt="image-20220525154231933" style="zoom:80%;" align="left"/>
 
      <img src="./picture/image-20220525154255399.png" alt="image-20220525154255399" style="zoom:80%;" align="left" />
-
+     
+     
+     
      分析：扩大窗口查询时间变化不大，原因是窗口查询在实现时是进行了八次筛选，比如上面的语句，先根据索引x筛选x>=0的所有记录，再依次进行其他条件筛选，所以主要耗时在第一次筛选从磁盘读，造成两次时间相差不大。
 
 4. 其他功能演示
@@ -367,36 +381,54 @@
 
      <img src="./picture/image-20220525110552563.png" alt="image-20220525110552563" style="zoom:80%;" align = "left"/>
 
+     
+
    * 显示数据库
 
      <img src="./picture/image-20220525155959438.png" alt="image-20220525155959438" style="zoom:80%;" align="left"/>
+
+     
 
    * 选择数据库
 
      <img src="./picture/image-20220525155326733.png" alt="image-20220525155326733" style="zoom:80%;" align="left"/>
 
+     
+
    * 创建表
 
      <img src="./picture/image-20220525155422357.png" alt="image-20220525155422357" style="zoom:80%;" align="left"/>
+
+     
 
    * 显示指定数据库中的表
 
      <img src="./picture/image-20220525160610765.png" alt="image-20220525160610765" style="zoom:80%;" align="left"/>
 
+     
+
    * 向表中插入数据
 
      ![image-20220525155722136](./picture/image-20220525155722136.png)
 
+     
+
    * 从表中删除数据
-
+   
      ![image-20220525155835400](./picture/image-20220525155835400.png)
-
+   
+     
+   
    * 删除表
-
+   
      <img src="./picture/image-20220525161030146.png" alt="image-20220525161030146" style="zoom:80%;" align="left"/>
-
+   
+     
+   
    * 删除数据库
-
+   
      <img src="./picture/image-20220525161144126.png" alt="image-20220525161144126" style="zoom:80%;" align="left"/>
-
+     
+     
+   
    
